@@ -1,0 +1,36 @@
+{
+  "id": "neodex.themevapor",
+  "name": "Thème Vaporwave 95",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "icon": "icon.png",
+  "neobase": ">=4.1.0",
+  "neodex": ">=3.3.9",
+  "type": "theme",
+  "compatibility": [
+    "windows",
+    "linux",
+    "android"
+  ],
+  "mobile": true,
+  "system": false,
+  "dependencies": {},
+  "sdk": "2.1.0",
+  "permissions": [],
+  "description": "Un vieux bureau d’ordinateur en pastel : fenêtres en relief, barres de titre dégradées, grille rose à l’horizon. Un thème de couleurs et de cadres pour NeoDex.",
+  "category": "Thèmes",
+  "themes": [
+    {
+      "id": "vapor",
+      "name": "Vaporwave 95",
+      "style": "vapor",
+      "hue": 290,
+      "sat": 40,
+      "accent": "#ff71ce",
+      "light": "#01cdfe",
+      "third": "#b967ff",
+      "lift": 2.6,
+      "about": "Un vieux bureau d’ordinateur en pastel : fenêtres en relief, barres de titre dégradées, grille rose à l’horizon."
+    }
+  ]
+}
